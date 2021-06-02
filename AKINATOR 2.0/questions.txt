@@ -1,0 +1,15 @@
+ Is your character Male?
+1
+ Is your character Female?
+2
+ Is your character older than 30years?
+3
+ Is your character Actor and Singer?
+4
+ Is your character Alive?
+5
+ Is your character Married?
+6
+ Is your character Muslim?
+8
+
