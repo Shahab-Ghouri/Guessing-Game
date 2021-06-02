@@ -1,11 +1,11 @@
 # Guessing-Game
-A small game in which following  Data structures are implemented : 
+A small game in which following  Data structures are implemented : <br>
   1- N-ary Tree <br>
   2- Singly Linked List <br>
   3- Queues <br>
   4- Vectors <br>
 --------------------------------------
-      <h1>Working Of The Program</h1> 
+      Working Of The Program  
 --------------------------------------
 <br>The program traverse through the Tree, and compares each key ,assigned to each node, with the key stored in "questions.txt" file.<br>
 It aks the user a series of Questions. There are total 6 questions.<br>
