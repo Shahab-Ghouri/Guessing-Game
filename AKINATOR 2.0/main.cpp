@@ -1,6 +1,5 @@
-// 		© Copyright 2021 , OBAID ULLAH SHAHAB GHOURI 
-// 		19K-1322
-// 		SECTION-A
+// 		Â© Copyright 2021 , OBAID ULLAH SHAHAB GHOURI 
+
 
 #include <iostream>
 #include <fstream>
